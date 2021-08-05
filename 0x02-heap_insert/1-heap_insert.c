@@ -6,6 +6,7 @@
  *
  * Return: number of nodes
  */
+
 int count_nodes(heap_t *root)
 {
 	int n;
